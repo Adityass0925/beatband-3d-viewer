@@ -1,0 +1,9 @@
+# Local server state
+server.log
+.stop-token
+__pycache__/
+
+# Build inputs for the claude.ai artifact copy (not part of the website)
+beatband-v1-viewer.html
+viewer.template.html
+logo.b64
